@@ -1,0 +1,56 @@
+@font-face {
+    font-family: 'steelfishbold_italic';
+    src: url('../../fonts/steelfish/steelfish_bd_it.woff2') format('woff2'),
+         url('../../fonts/steelfish/steelfish_bd_it.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'steelfishbold';
+    src: url('../../fonts/steelfish/steelfish_bd.woff2') format('woff2'),
+         url('../../fonts/steelfish/steelfish_bd.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'steelfishextrabold_italic';
+    src: url('../../fonts/steelfish/steelfish_eb_it.woff2') format('woff2'),
+         url('../../fonts/steelfish/steelfish_eb_it.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'steelfishextrabold';
+    src: url('../../fonts/steelfish/steelfish_eb.woff2') format('woff2'),
+         url('../../fonts/steelfish/steelfish_eb.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'steelfishoutline';
+    src: url('../../fonts/steelfish/steelfish_outline.woff2') format('woff2'),
+         url('../../fonts/steelfish/steelfish_outline.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'steelfishregular_italic';
+    src: url('../../fonts/steelfish/steelfish_rg_it.woff2') format('woff2'),
+         url('../../fonts/steelfish/steelfish_rg_it.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'steelfishregular';
+    src: url('../../fonts/steelfish/steelfish_rg.woff2') format('woff2'),
+         url('../../fonts/steelfish/steelfish_rg.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}

@@ -1,0 +1,10 @@
+/* Import google fonts */
+@import url("../css/font-awesome.css");
+@import url("../fonts/steelfish/style.css");
+@import url("../fonts/calibri/style.css");
+@import url("../css/style.css");
+@import url("../css/stepper.css");
+@import url("../css/responsive.css");
+@import url("../css/swiper-bundle.min.css");
+@import url("https://unpkg.com/@mui/material@latest/umd/material-ui.development.js");
+

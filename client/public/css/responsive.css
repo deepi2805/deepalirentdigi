@@ -1,0 +1,494 @@
+@media (min-width: 1500px) {
+  .container {
+    max-width: 1440px !important;
+  }
+
+  .containerLg {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+  .propertyDtlRow .col-md-4 {
+    width: 25.3333%;
+  }
+
+  .propertyDtlRow .col-md-8 {
+    width: 72.3333%;
+    margin-right: 1%;
+  }
+  .factsFeatr .col-md-3 {
+    width: 19%;
+  }
+
+  .factsFeatr .col-md-9 {
+    width: 81%;
+  }
+}
+
+@media (min-width: 1700px) {
+  .containerLg {
+    max-width: 1694px;
+    margin: 0 auto;
+  }
+}
+
+@media (min-width: 1024px) and (max-width: 1500px) {
+  h1 {
+    font-size: 40px;
+    line-height: 54px;
+  }
+  .latestPrortySlider .swiper-button-prev {
+    left: 20px !important;
+  }
+  .LatstBlogSlidr .swiper-button-prev,
+  .LatstBlogSlidr .swiper-button-next {
+    width: 45px !important;
+    height: 45px !important;
+    top: 130px;
+  }
+
+  .advanceSrchTogle a {
+    padding: 0px 11px !important;
+  }
+  .swiperFullArrow .swiper-button-next::after {
+    padding-right: 0 !important;
+  }
+
+  .explrCityItem .expleItmDiv {
+    padding: 15px;
+  }
+  .containerLg {
+    max-width: 1140px !important;
+    margin: 0 auto;
+}
+  .advanceSrchDiv {
+    width: 100%;
+  }
+  .tpBarContent {
+    text-align: left;
+    padding-left: 25px;
+  }
+  .advanceSrchDiv .form-select {
+    background-position: right 13px center;
+    background-size: 17px 14px;
+  }
+  .explorcitySlider {
+    left: calc((100% - 1120px) / 2);
+  }
+  .explrCityItem .expleItmDiv h2 {
+    bottom: 20px;
+    font-size: 22px;
+  }
+  .pd60 {
+    padding: 40px 0;
+  }
+  .pdtop-60 {
+    padding-top: 40px;
+  }
+  .mtop-50 {
+    margin-top: 30px;
+  }
+  .explorcitySlider .swiper-button-next {
+    right: 120px;
+  }
+  .getAcesBox {
+    width: 45%;
+    margin: 40px 30px 20px 0px;
+  }
+
+  .mobileSlidBanr .swiper-container {
+    position: relative !important;
+    text-align: right;
+    min-height: 543px;
+  }
+  .appFeature h2 {
+    width: 150px;
+  }
+  .mainHdng.sideBarHdng h1 {
+    font-size: 23px !important;
+    letter-spacing: 1px;
+  }
+  .mainHdng .hdngRigtTitle {
+    font-size: 16px;
+  }
+  .selectProptySide .form-select {
+    width: 168px;
+  }
+  .mobileSlidBanr .swiper-container:before {
+    height: 98%;
+    width: 268px;
+  }
+  .prptListPageBlk > div .col-md-7,
+  .prptListPageBlk > div .col-md-5 {
+    width: 50%;
+  }
+  .tpBarContent h3 {
+    font-size: 17px;
+
+}
+.tpBarContent {
+    padding-left: 15px;
+}
+}
+
+@media (min-width: 991px) and (max-width: 1199px) {
+
+.containerLg {
+    max-width: 980px !important;
+    margin: 0 auto;
+}
+.commonForm .btn {
+    font-size: 15px;
+    min-width: 130px;
+}
+.advanceSrchTogle p {
+    font-size: 16px;
+}
+.explorcitySlider .swiper-button-next {
+    right: 10px;
+}
+.explorcitySlider .swiper-button-prev{
+   left: 40px;
+}
+.Mainhdingbtn .comn-btn {
+    width: 185px!important;
+    font-size: 14px;
+    min-width: inherit;
+    width: auto;
+}
+.mainHdngTitle h2 {
+    letter-spacing: 1.5px;
+    font-size: 34px;
+    line-height: 44px;
+}
+.cartBlkImg {
+    width: 100%;
+}
+.getAcesBox {
+    width: 44%;
+    margin: 0px 30px 0px 0px;
+}
+.mobileSlidBanr .swiper-container:before {
+    height: 82%;
+    width: 215px;
+}
+.testiContent {
+    margin-left: 45px;
+}
+.testiContent p {
+    font-size: 25px;
+    letter-spacing: 1px;
+    line-height: 34px;
+    padding-bottom: 40px;
+}
+.instaImg {
+    min-height: 160px;  
+}
+.instaFeedInr {
+    margin-bottom: -110px;
+    padding-top: 10px;
+}
+.footrBlk {
+    padding-top: 20px;
+}
+.ftrSubcribe .comn-btn {
+    font-size: 18px;
+    padding: -10px;
+    min-width: 115px !important;
+    height: 60.5px;
+}
+}
+
+
+@media (max-width: 767px) {
+  .containerLg {
+    padding: 0px 15px;
+}
+h2 {
+    font-size: 34px;
+}
+
+.pd80 {
+    padding: 40px 0;
+}
+.pd60 {
+    padding: 30px 0;
+}
+.pdbtm-60 {
+    padding-bottom: 30px;
+}
+.pdbtm-40 {
+    padding-bottom: 30px;
+}
+  /*header-top-bar*/
+.headrTopBar {
+    background: #eff6f7;
+    text-align: center;
+    padding: 10px;
+    height: auto;
+    line-height: inherit;
+} 
+.tpBarContent h3 {
+    font-size: 16px;
+    display: inherit;
+}
+.tpBarContent img {
+    width: 25px;
+}
+.tpBarContent h3 span {
+  padding-left: 0;
+}
+.tpBarContent h3 a {
+    margin-left: 0;
+    position: inherit;
+}
+.headrTopBar p {
+    float: inherit;
+    margin-top: 0;
+    padding-right: 0;
+    line-height: 24px;
+    margin-top: 0;
+    color: #221e1f;
+    font-size: 16px;
+    padding: 0;
+}
+
+/*header-logo-row*/
+.logoMain img {
+    width: 150px;
+}
+.nav-links {
+    position: fixed;
+    top: 0;
+    background: #221e1f;
+    height: 100%;
+    width: 100%;
+    flex-direction: column;
+    clip-path: circle(100px at 90% -30%);
+    transition: all 1s ease-out;
+    right: 10%;
+    max-width: 100%;
+    text-align: center;
+    left: 0px;
+     padding-top: 80px;
+}
+
+.sideBarClose .menu {
+    top: 30px;
+    right: 90px;
+    z-index: 9999;
+}
+.getAcesBox {
+    width: 50%;
+    margin: 0px;
+    padding: 20px;
+    transform: inherit;
+    width: calc(50% - 10px);
+    margin: 0px 5px;
+    margin-bottom: 20px;
+}
+.getAcesRightBlk {
+    margin-top:0px;
+}
+.getAcesBox {
+    transform: inherit;
+
+}
+.getAcesBox.blueBg {
+    margin-top: 0;
+}
+.getAcesInr {
+    transform: none;
+}
+.mainHdngTitle h4 {
+    padding-bottom: 10px;
+}
+
+.advanceSrchForm .srchCity input {
+    border: 1px solid #ddd;
+    padding-left: 35px;
+    border-radius: 5px;
+}
+.advanceSrchForm .srchCity::after{
+  display: none;
+}
+.advanceSrchForm .srchCity::before {
+    left: 10px;
+}
+.selectTypeCol {
+    margin-right: 0;
+    margin-top: 10px;
+}
+.selectTypeCol .css-1s2u09g-control {
+    border: 1px solid #ddd;
+    width: 100%!important;
+    height: 48px;
+}
+.advanceSrchTogle a {   
+    margin-top: 0;
+    height: 50px;
+    margin: 10px 0px;
+    width: 100%;
+    border-radius: 5px;
+}
+.advanceSrchBlk {
+    margin-top: -170px;
+}
+
+.commonForm .btn {
+    min-width: 100%!important;
+    height: 50px!important;
+}
+.explorcitySlider {
+    left: 10px;
+}
+.latestPrortySlider {
+    right: -10px;
+}
+.testiMnl-cricle {
+ 
+    display: none;
+}
+.testiContent p {
+    font-size: 19px;
+    letter-spacing: 0px;
+    line-height: 25px;
+    padding-bottom: 20px;
+}
+.testiMnlSldr::before {
+    right: 0;
+    left: inherit;
+}
+.instaFedBlk::before {
+    left: 250px;
+}
+.ftrInstaBg {
+    margin-top: -25px;
+}
+.instaFedBlk {
+    margin-top: 40px;
+    paddin-top: 20px;
+}
+
+.appFeature .feature {
+    display: inherit;
+    justify-content: flex-start;
+}
+.downloadAppBlk {
+    margin-top: 20px;
+}
+
+.footerWidget h2 {
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+.ftrSubcribe .comn-btn {
+    height: 60.5px;
+ }
+ .mobileSlidBanr {
+    margin-top: 50px;
+    min-height: auto;
+}
+.mobileSlidBanr .swiper-container:before {
+    height: 99%;
+    width: 376px;
+}
+.addgridItem .cardPropertyBox {
+    width: calc(100% - 20px);
+}
+.factFeatrList li {
+    width: 40%;
+    margin: 20px;
+}
+.factFeatrList {
+    margin-top: 25px;
+}
+.proprtyLoctnBlk {
+    margin-bottom: 20px;
+} 
+/*add-property*/
+.addListRow {
+    width: 90%;
+}
+.choseIner a {
+    margin-bottom: 20px;
+    padding: 24px;
+} 
+.prtyTypeList.pt60 {
+    padding-top: 30px;
+}
+.k-form, .k-form-inline {
+  width: 95% !important;
+}
+.k-stepper .k-step-indicator {
+    width: 35px;
+    height: 35px;
+}
+.brDrBg {
+    padding: 20px;
+}
+.addPrptyForm .form-group.col-auto {
+    width: 100%;
+}
+.k-stepper {
+    width: 95% !important;
+}
+.about.addProptryBlk.pd50 {
+    padding: 25px 0px;
+}
+.addProptyMap > div {
+    height: 300px!important;
+}
+span.k-step-text {
+    display: none;
+}
+.explorcitySlider .swiper-button-next {
+  right: 20px;
+  left: auto;
+}
+}
+
+@media (min-width:320px) and (max-width:480px) {
+
+.cartBlkImg {
+    height: 220px;
+    width: 100%;
+}
+.copyRight {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    border-top: 1px solid rgba(255,255,255,0.3);
+    margin-top: 25px;
+}
+.advanceSrchBlk {
+  margin-top: -100px;
+}
+.ftrSubcribe .form-group {
+   margin-bottom: 20px;
+}
+.instaFedBlk::before,
+.instaFedBlk::after{
+  display: none;
+}
+.mobileSlidBanr .swiper-container:before {
+    height: 100%;
+    width: 250px;   
+}
+.mobileSlidBanr {
+    margin-top: 40px;
+    min-height: inherit;
+}
+.mobileSlidBanr .swiper-container {
+    min-height: inherit;
+}
+.explorcitySlider .swiper-button-next {
+    right: 20px;
+}
+.latestPrortySlider .swiper-button-prev {
+    left: 7px;
+}
+.commonForm .control {
+    width: 33.3%;
+}
+
+}
+
